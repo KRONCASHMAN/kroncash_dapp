@@ -1,0 +1,11 @@
+:root {
+  --bg-image: linear-gradient(to right, #06061a, #3432c9);
+  --pro-color: rgb(255, 0, 0);
+  --title-color: rgb(255, 0, 0);
+  --roadmap-color: white;
+  --content-text: white;
+  --btn-color: white;
+  --card-color: white;
+  --doc: white;
+  --doc-text: black;
+}
